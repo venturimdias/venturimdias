@@ -13,7 +13,9 @@ Tenho conhecimento básico em: Wordpress, CorelDraw, C#, SQL Server, PHP, Python
 Estudando atualmente: Javascript (aperfeiçoando), React js, React Native, Vue.js
 
 #### Extra que não estão no currículo:
-- Semana NLW - Rocketseat;
+- Semana React.js NLW - Rocketseat;
+- Curso Vue.js - Vue.js Brasil!;
+- Javascript Moderno - Udemy;
 - Análise e desenvolvimento de um projeto para IE intercambio de gestão interna (IE control - PHP/MYSQL);
 - Curso online de Criação Publicitária para Web - 2011;
 - Participei do 16º EDTED - RJ - Encontro de Design e Tecnologia Digital - 2011;
