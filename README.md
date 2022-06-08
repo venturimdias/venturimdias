@@ -6,11 +6,11 @@
 
 Eu sou o Jonathan, sou sócio e desenvolvedor Front-end da empresa [Aldabra](www.aldabra.com.br). 
 
-Trabalho atualmente com as seguintes ferramentas: Photoshop, Illustrator, Indesign, HTML, CSS, Javascript, Jquery, VS Code, Mysql.
+Trabalho atualmente com as seguintes ferramentas: HTML, CSS, SCSS, Javascript, Jquery, VS Code, Mysql, Vue.js, React.js, Next.js, Styled-component, Photoshop, Illustrator, Indesign, Figma.
 
-Tenho conhecimento básico em: Wordpress, CorelDraw, C#, SQL Server, PHP, Python.
+Tenho conhecimento básico em: C#, SQL Server, PHP, Python, Wordpress, CorelDraw.
 
-Estudando atualmente: Javascript (aperfeiçoando), React js, React Native, Vue.js
+Estudando atualmente: React Native
 
 #### Extra que não estão no currículo:
 - Semana React.js NLW - Rocketseat;
