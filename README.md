@@ -4,11 +4,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Jonathan%20Venturim-2ea043?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/venturimdias/)](https://www.linkedin.com/in/venturimdias/) 
 [![Gmail Badge](https://img.shields.io/badge/-venturim.dias@gmail.com-2ea043?style=flat-square&logo=Gmail&logoColor=white&link=mailto:venturim.dias@gmail.com)](mailto:venturim.dias@gmail.com)
 
-Eu sou o Jonathan, sou sócio e desenvolvedor Front-end da empresa [Aldabra](www.aldabra.com.br). 
+Desenvolvedor Front-end com mais de 12 anos de experiência na área e 4 anos de experiência em React.js. Ao longo desses anos, tive a oportunidade de trabalhar em diversos projetos desafiadores e interessantes, onde tive a chance de aprimorar minhas habilidades e conhecimentos em diversas tecnologias.
 
-Trabalho atualmente com as seguintes ferramentas: HTML, CSS, SCSS, Javascript, Jquery, VS Code, Mysql, Vue.js, React.js, Next.js, Styled-component, Photoshop, Illustrator, Indesign, Figma.
+Minha stack de tecnologias inclui React js, Next js, Vue js, HTML, CSS, SCSS, Styled-components, Javascript, Jquery, VS Code, Mysql, GraphQL, api REST, Figma, Git, Photoshop, Illustrator, Indesign, PHP e Python.
 
-Tenho conhecimento básico em: C#, SQL Server, PHP, Python, Wordpress, CorelDraw.
+Tenho conhecimento básico em: C#, SQL Server, PHP, Python e Wordpress.
 
 Estudando atualmente: React Native
 
