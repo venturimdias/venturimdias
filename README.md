@@ -8,7 +8,7 @@ Desenvolvedor Front-end com mais de 12 anos de experiência na área e 4 anos de
 
 Minha stack de tecnologias inclui React js, Next js, Vue js, HTML, CSS, SCSS, Styled-components, Javascript, Jquery, VS Code, Mysql, GraphQL, api REST, Figma, Git, Photoshop, Illustrator e Indesign.
 
-Tenho conhecimento básico em: C#, SQL Server, PHP, Python e Wordpress.
+Com conhecimento em: C#, SQL Server, PHP, Python e Wordpress.
 
 [Alguns trabalhos realizados na aldabra](https://aldabra.com.br/clientes-e-projetos)
 
