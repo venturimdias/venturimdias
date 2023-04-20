@@ -6,11 +6,11 @@
 
 Desenvolvedor Front-end com mais de 12 anos de experiência na área e 4 anos de experiência em React.js. Ao longo desses anos, tive a oportunidade de trabalhar em diversos projetos desafiadores e interessantes, onde tive a chance de aprimorar minhas habilidades e conhecimentos em diversas tecnologias.
 
-Minha stack de tecnologias inclui React js, Next js, Vue js, HTML, CSS, SCSS, Styled-components, Javascript, Jquery, VS Code, Mysql, GraphQL, api REST, Figma, Git, Photoshop, Illustrator, Indesign, PHP e Python.
+Minha stack de tecnologias inclui React js, Next js, Vue js, HTML, CSS, SCSS, Styled-components, Javascript, Jquery, VS Code, Mysql, GraphQL, api REST, Figma, Git, Photoshop, Illustrator e Indesign.
 
 Tenho conhecimento básico em: C#, SQL Server, PHP, Python e Wordpress.
 
-Estudando atualmente: React Native
+[Alguns trabalhos realizados na aldabra](https://aldabra.com.br/clientes-e-projetos)
 
 #### Extra que não estão no currículo:
 - Semana React.js NLW - Rocketseat;
@@ -21,4 +21,4 @@ Estudando atualmente: React Native
 - Participei do 16º EDTED - RJ - Encontro de Design e Tecnologia Digital - 2011;
 
 
-[Alguns trabalhos realizados na aldabra](https://aldabra.com.br/clientes-e-projetos)
+
